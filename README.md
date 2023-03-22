@@ -1,4 +1,3 @@
-# capstone_data_analysis
 Capstone Data Analysis
 
 # Context
